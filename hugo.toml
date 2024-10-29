@@ -1,0 +1,4 @@
+baseURL = 'https://bymysafe.com/'
+languageCode = 'fr-FR'
+title = 'By My Safe'
+theme = 'ananke'
